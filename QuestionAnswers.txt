@@ -1,0 +1,20 @@
+You are to design an IoT solution for a new air quality device. The device will be placed outside and for simplicity we assume it only consists of a set of environmental sensors, a communication unit and an MCU. (MCU and coms can be the same chip). We are still in the R&D phase, and will need to be able to update the device firmware in the field. Questions: 
+
+A. What technology would you use for communication / MCU and why?
+Answer: In my opinion serial communication would be better one to use for communication and Micro controller Unit. As it is used for long-haul communication and most computer networks where the cost of cable and synchronization difficulties makes parallel communication impractical. In addition to this, serial computer buses are becoming more common even at shorter distances, as improved signal integrity and transmission speeds in newer serial technologies have begun to outweigh the parallel bus advantage of simplicity. For example, PCI to PCI Express. And also we are is R&D phase right now so it would be better to go with serial communication.
+
+B. How would you update the firmware?
+Answer: Network configuration manager upgrades firmware using advanced script execution mode in configlets. Advance script execution is used to execute a series of interconnected commands on a device. Firmware upgrades can be maintained after the cloud communication setup or can be scheduled for execution at any future point in time. We have to create the template containing the required commands and then use that template to execute repetitive tasks for many devices. Few things are to be noted while upgrading the firmware: Memory requirement, Interfaces and modules support and software features support
+
+ C. What would be the core challenge(s) with rolling out thousands of devices? 
+Answer: The core challenges with rolling out thousands of devices are data management while making changes in the configuration files or making the upgrades on the system. Another core problem would be server overloading which would cause the system failure or system crash.
+
+D. What platform/solution(s) would you use for fleet management and why?
+Answer: In my opinion, OpenHab would be better for fleet management because it integrates will with could services and a wide variety of open and proprietary hardware. It uses familiar concepts of rules, triggers and actions plus new ones thrown in for good measure such as voice control and pluggable architecture to add support for any particular use cases.
+
+ E. How would you expose data to other platforms?
+Answer: Exposing the data to other platform is based on the customer requirements.
+ expose data frame-based customer requirement
+
+F. What are the key challenges with integrating with other platforms?
+Answer: The key challenges with integrating with other platform is communication problem while handling data frames and mismatch of data frame would lead to crash of data and waste of time and energy. Another problem is scalability and maintenance while integrating with other platform is difference in the architecture. 

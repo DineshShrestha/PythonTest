@@ -1,0 +1,14 @@
+You are to design an IoT solution for a new air quality device. The device will be placed
+outside and for simplicity we assume it only consists of a set of environmental sensors, a
+communication unit and an MCU. (MCU and coms can be the same chip). We are still in the
+R&D phase, and will need to be able to update the device firmware in the field.
+Questions:
+A. What technology would you use for communication / MCU and why?
+B. How would you update the firmware?
+C. What would be the core challenge(s) with rolling out thousands of devices?
+D. What platform/solution(s) would you use for fleet management and why?
+We’d like to offer data from the devices to other platforms, be it IFTTT or integrated with
+smart home solutions.
+Questions:
+E. How would you expose data to other platforms?
+F. What are the key challenges with integrating with other platforms?

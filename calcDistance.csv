@@ -1,0 +1,46 @@
+Someplace,Otherplace,Distance
+Anchorage,Alta,5417.856476023166
+Jakarta,Alta,10412.953075901169
+Jakarta,Anchorage,11320.469203385404
+London,Alta,2380.3189918681614
+London,Anchorage,7196.3119567899075
+London,Jakarta,11718.4583317293
+Longyearbyen,Alta,944.8893521591991
+Longyearbyen,Anchorage,4479.354055596104
+Longyearbyen,Jakarta,10711.167389473869
+Longyearbyen,London,3037.634301904151
+North pole,Alta,2227.36003095762
+North pole,Anchorage,3200.405706988092
+North pole,Jakarta,10698.577613034093
+North pole,London,4280.056183091233
+North pole,Longyearbyen,1309.5048448179095
+Oslo,Alta,1258.5980303655738
+Oslo,Anchorage,6443.9413268596745
+Oslo,Jakarta,10945.026837151632
+Oslo,London,1153.2506167953798
+Oslo,Longyearbyen,2043.618943848428
+Oslo,North pole,3345.551780585032
+South pole,Alta,17787.72676506295
+South pole,Anchorage,16814.68108903248
+South pole,Jakarta,9316.509182986478
+South pole,London,15735.030612929339
+South pole,Longyearbyen,18705.58195120266
+South pole,North pole,20015.086796020572
+South pole,Oslo,16669.53501543554
+Troll research station,Alta,15857.859462969504
+Troll research station,Anchorage,18335.529374554946
+Troll research station,Jakarta,9835.333104368672
+Troll research station,London,13735.320662226346
+Troll research station,Longyearbyen,16725.447181245854
+Troll research station,North pole,18013.79383457621
+Troll research station,Oslo,14681.854013869237
+Troll research station,South pole,2001.2929614443653
+Vardø,Alta,298.83458844713243
+Vardø,Anchorage,5382.894281380392
+Vardø,Jakarta,10132.856896888705
+Vardø,London,2630.1248517367994
+Vardø,Longyearbyen,982.1829382784964
+Vardø,North pole,2182.7030364678985
+Vardø,Oslo,1487.6187821688427
+Vardø,South pole,17832.38375955268
+Vardø,Troll research station,15964.878256915856
